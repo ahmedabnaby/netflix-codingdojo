@@ -1,0 +1,82 @@
+/* Responsivness for mobile phones */
+@media (max-width:768px)
+{
+    .showcase-top img
+    {
+        top: 15%;
+        left: 5%;
+        transform: translate(0);
+        padding: 30px;
+    }
+    .showcase-top a
+    {
+        margin-top: 15px;
+    }
+    .showcase-content h1
+    {
+        font-size: 2.5rem;
+    }
+    .showcase-content p
+    {
+        font-size: 14px;
+        line-height: 1;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* @media (max-width:768px)
+{
+    .showcase-top img
+    {
+        top: 30%;
+        left: 5%;
+        transform: translate(0);
+        padding: 30px;
+    }
+    .showcase-top a
+    {
+        margin-top: 25px;
+    }
+    .showcase-content h1
+    {
+        font-size: 2.5rem;
+        line-height: 1;
+    }
+    .showcase-content p
+    {
+        font-size: 1rem;
+    }
+    .showcase::after {  
+        background: rgba(0, 0, 0, 0.6);  
+        box-shadow: inset 80px 80px 150px #000000, inset -80px -80px 150px #000000;  
+   } 
+} */
